@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParserBotMus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParserBotMus_jar</output-path>
+    <root id="archive" name="ParserBotMus.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ParserBotMus" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.4/jsoup-1.15.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/xerial/sqlite-jdbc/3.35.0/sqlite-jdbc-3.35.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
